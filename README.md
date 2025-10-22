@@ -1,1 +1,1 @@
-# Git_ex
+# Git_ex only for exercises
